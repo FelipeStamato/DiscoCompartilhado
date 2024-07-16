@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using DiscoCompartilhadoBIOS.Servicos;
 
-namespace DiscoCompartilhadoBIOS
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        ArmazenamentoLogico disco = DiscoAppServico.PegaDisco();
     }
 }
