@@ -1,4 +1,4 @@
-﻿using DiscoCompartilhadoBIOS.Servicos;
+﻿using DiscoCompartilhado.Servicos;
 
 class Program
 {

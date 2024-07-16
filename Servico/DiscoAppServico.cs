@@ -1,6 +1,6 @@
-﻿using DiscoCompartilhadoBIOS.Handler;
+﻿using DiscoCompartilhado.Handler;
 
-namespace DiscoCompartilhadoBIOS.Servicos
+namespace DiscoCompartilhado.Servicos
 {
     public class DiscoAppServico
     {

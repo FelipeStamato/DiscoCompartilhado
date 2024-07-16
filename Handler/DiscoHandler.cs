@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Management;
 
-namespace DiscoCompartilhadoBIOS.Handler
+namespace DiscoCompartilhado.Handler
 {
     public class DiscoHandler
     {
